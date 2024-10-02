@@ -1,4 +1,5 @@
 # Lane and Car Detection System Using YOLOv8 and OpenCV
+![ss](./ss.png)
 ## Overview
 This project demonstrates how to build a lane and car detection system using YOLOv8 (You Only Look Once) and OpenCV. The system can detect road lanes and identify vehicles, estimating their distance from the camera. It combines computer vision techniques and deep learning-based object detection to provide a comprehensive understanding of road environments.
 
